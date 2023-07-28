@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Hook/static/css/main.e6c13ad2.css",
+    "main.js": "/React-Hook/static/js/main.75bdf9c0.js",
+    "static/js/787.43936fac.chunk.js": "/React-Hook/static/js/787.43936fac.chunk.js",
+    "index.html": "/React-Hook/index.html",
+    "main.e6c13ad2.css.map": "/React-Hook/static/css/main.e6c13ad2.css.map",
+    "main.75bdf9c0.js.map": "/React-Hook/static/js/main.75bdf9c0.js.map",
+    "787.43936fac.chunk.js.map": "/React-Hook/static/js/787.43936fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.75bdf9c0.js"
+  ]
+}
